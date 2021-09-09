@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-09-09T15:25:14-04:00"
+      "last_modified": "2021-09-09T15:28:34-04:00"
     },
     {
       "path": "index.html",
       "title": "73800_Pisari",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-09-09T15:25:15-04:00"
+      "last_modified": "2021-09-09T15:28:35-04:00"
     }
   ],
   "collections": ["posts/posts.json"]
