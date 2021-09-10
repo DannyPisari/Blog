@@ -1,9 +1,9 @@
 {
     "id": "7C1B2D50",
-    "path": "~/Google Drive/5 2021 Fall/PSYC 73800/Blog/_posts/welcome/welcome.Rmd",
-    "project_path": "_posts/welcome/welcome.Rmd",
+    "path": "~/Google Drive/5 2021 Fall/PSYC 73800/Blog/_posts/welcome/9-10.Rmd",
+    "project_path": "_posts/welcome/9-10.Rmd",
     "type": "r_markdown",
-    "hash": "2340088897",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1631215366136.0,
@@ -11,14 +11,16 @@
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "14,3",
+        "scrollLine": "22"
     },
     "folds": "",
-    "lastKnownWriteTime": 1631215357,
+    "lastKnownWriteTime": 1631258836,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1631215357,
+    "last_content_update": 1631258836234,
     "read_only": false,
     "read_only_alternatives": []
 }

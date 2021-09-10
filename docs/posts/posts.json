@@ -1,19 +1,19 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to 73800_Pisari",
-    "description": "Welcome to our new blog, 73800_Pisari. We hope you enjoy \nreading what we have to say!",
+    "title": "9/10 — Foundations",
+    "description": "Notes on Newell (1973) and Kolers & Roediger (1984)",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Danny Pisari",
+        "url": {}
       }
     ],
-    "date": "2021-09-09",
+    "date": "2021-09-10",
     "categories": [],
-    "contents": "\n\n\n\n",
+    "contents": "\nYou can’t play 20 questions with nature and win (Newell 1973)\nNewell explores the state of the field of psychology at the time, going through a few examples of the growing number of very specific (and often dichotomous) phenomena being studied and how the approach seems to produce few concrete answers, instead resulting in expanding unknowns. Many (if not all) of Newell’s criticisms of experimental methods and analysis in psychology continue to be echoed today.\nWhen reviewing papers, I am regularly frustrated with poorly explained methods (not to mention the nearly nonexistent limitations sections) many researchers submit for publication. There certainly seems to be a focus on pulling a significant statistic and much less discussion on the greater context of the data, how it was gathered and analyzed, and how that fits in a larger picture. The rise in popularity of meta-analyses may in some way be a sort of approach to cumulate empirical results, but that still invites some of Newell’s other criticisms like quantifying the results to fit a narrative of opposing dichotomies.\nProcedures of mind (Kolers and Roediger 1984)\nKolers and Roediger introduce a weakness in prior theories of learning and memory—information and the flow thereof had perhaps been looked at in too concrete terms, as opposed to considering information to be more of a process-based concept. Information had been discussed primarily as some kind of item to be stored in a physical mind structure to later be pulled back out during retrieval. The authors go further into: the overemphasis on measurements testing for active recollection, even though that may not reflect how we most commonly use memory; the tendency to, maybe unnecessarily, draw distinctions between stored content knowledge and processes use to “manipulate” that content; separation of motor and cognition; the designation of typographic and pragmatic features of language as superficial compared to the semantic meaning; and a few other assumptions from popular models. Kolers and Roediger propose these assumptions are not necessary to the explanation of memory and learning.\nI cover a bit about knowledge, memory, and information processing in a learning and development course I have been teaching for secondary education teacher candidates. We do an introductory overview of a few different models but also talk about how researchers like to come up with these boxes and diagrams to simplify ideas, and it is important to keep in mind that any boundaries drawn around or between one cognitive process and another are there to clarify the ideas proposed, for our own benefit in trying to understand what’s going on, and that the reality of these proposed models would more likely be a big mess of overlapping interdependent elements (or gradients), which might not make for an intuitive interpretation.\n\n\n\nKolers, Paul A., and Henry L. Roediger. 1984. “Procedures of Mind.” Journal of Verbal Learning and Verbal Behavior 23 (4): 425–49. https://doi.org/10.1016/s0022-5371(84)90282-2.\n\n\nNewell, Allen. 1973. “You Can’t Play 20 Questions with Nature and Win: Projective Comments on the Papers of This Symposium.”\n\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-09-09T15:22:43-04:00",
-    "input_file": {}
+    "last_modified": "2021-09-10T08:52:50-04:00",
+    "input_file": "9-10.knit.md"
   }
 ]

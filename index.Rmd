@@ -1,5 +1,5 @@
 ---
-title: "73800_Pisari"
+title: "73800 / Pisari"
 site: distill::distill_website
 listing: posts
 ---
