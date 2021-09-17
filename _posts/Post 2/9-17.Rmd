@@ -1,0 +1,60 @@
+---
+title: "9/17 — Brainstorming"
+description: |
+  Brainstorming for PSYCH 73800
+author:
+  - name: Danny Pisari
+    url: 
+    affiliation: The Graduate Center, CUNY
+    affiliation_url: https://www.gc.cuny.edu
+date: 09-17-2021
+# bibliography: 9-17.bib # -- no bib
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+## Brainstorming for the final paper
+
+My plan at the moment is to write a general review/overview on sound in the context of memory and learning for the purpose of proposing a guide on **cognitive sound design for educational multimedia**.
+
+Some possible topics that could be covered include:
+
+###	[1] Designing audio for **_memory_**
+* Phonetic processing, acoustic encoding of memory, rehearsal
+* Echoic memory
+* Dual-coding theory (voiceover, contextual sound effects)
+* Music arousal when learning vs working memory capacity (and simplicity of task)
+* Appropriate mood state-dependent cues. For music, emotional judgments may be cultural but also psychophysical
+* Prior cultural experiences with music affect expectation
+
+###	[2] Designing audio for **_attention_**
+* Cognitive load theory
+* Split-attention
+* Pairing with images, on-screen text, subtitles
+* Cueing via contextual sound design
+* Music as an attentional aid 
+* Familiarity in music & speech
+* Building expectation in patterns, e.g., rhythm
+* Audio masking, precedence effect, attentional capture / cocktail party effect
+* Background sounds as distraction (though background music or white noise may promote stochastic resonance to benefit listeners with ADHD)
+
+###	[3] Designing audio for **_motivation_**
+* Audio as immediate performance feedback
+* Audio as reward (musicality, speech)
+
+### Maybe also include: 
+* Linguistic background can affect development of music and sound cognition (e.g., tonal or pitch accented L1 may promote significantly earlier development of pitch discrimination in childhood)
+* Audio accessibility for learners with disabilities
+
+# Alternatively
+* Proposal for a study re: effects of contextual audio feedback on ability to recall meaning in a foreign language vocabulary training application
+* Proposal for a study re: effects of characteristics of background music (e.g., melodic complexity, harmonic complexity, arrangement, tempo, presence/language of lyrics, frequency content, dynamic range) on working memory load

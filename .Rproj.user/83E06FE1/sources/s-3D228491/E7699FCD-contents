@@ -1,9 +1,0 @@
----
-title: "About this blog"
-description: |
-  PSYC 73800
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
